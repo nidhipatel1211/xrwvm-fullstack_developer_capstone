@@ -1,4 +1,5 @@
 import LoginPanel from "./components/Login/Login"
+import RegistrationPanel from "./components/Register/Register"
 import { Routes, Route } from "react-router-dom";
 
 function App() {
