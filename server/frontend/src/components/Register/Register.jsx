@@ -60,7 +60,7 @@ const Register = () => {
           <hr/>
         </div>
 
-        <form onSubmit={register}>
+        <form className="registration_panel" onSubmit={register}>
         <div className="inputs">
           <div className="input">
             <img src={user_icon} className="img_icon" alt='Username'/>
